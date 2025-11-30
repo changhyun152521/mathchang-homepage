@@ -1,2 +1,2 @@
-web: cd server && npm install && node index.js
+web: cd server && node index.js
 
